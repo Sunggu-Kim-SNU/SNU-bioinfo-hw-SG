@@ -1,0 +1,2 @@
+# CNN을 이용해서 LIN28A binding site를 예측하는 predictor를 만들어볼 예정입니다.
+# HMM을 안만들어도 되지 않을까 해서 HMM을 만드는건 생략하겠습니다.
